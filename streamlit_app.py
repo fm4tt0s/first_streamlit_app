@@ -56,7 +56,7 @@ except URLError as e:
 # here's a fancky comment - or not
 # take the json version and normalize it
 # output it in the screen as a table
-streamlit.stop()
+# streamlit.stop()
 
 streamlit.header("The fruit list contains:")
 # Snowflake related functions
